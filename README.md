@@ -1,18 +1,18 @@
-# Prodigy InfoTech Internship Tasks
+# Prodigy InfoTech Internship Tasks 🌟
 
 Welcome to my repository! This repository contains the solutions to five tasks assigned to me during my 1-month internship at Prodigy InfoTech. This experience allowed me to enhance my skills in software development and gain practical knowledge in various technologies.
 
-## Table of Contents
+## Table of Contents 📚
 
-1. [Task 1: Build a Temperature Conversion Program](#task-1-build-a-temperature-conversion-program)
-2. [Task 2: Create a Guessing Game](#task-2-create-a-guessing-game)
-3. [Task 3: Implement a Simple Contact Management System](#task-3-implement-a-simple-contact-management-system)
-4. [Task 4: Implement a Sudoku Solver](#task-4-implement-a-sudoku-solver)
-5. [Task 5: Web Scraping](#task-5-web-scraping)
-6. [Technologies Used](#technologies-used)
-7. [Learning Outcomes](#learning-outcomes)
+1. [Task 1: Build a Temperature Conversion Program 🌡️](#task-1-build-a-temperature-conversion-program)
+2. [Task 2: Create a Guessing Game 🎮](#task-2-create-a-guessing-game)
+3. [Task 3: Implement a Simple Contact Management System 📇](#task-3-implement-a-simple-contact-management-system)
+4. [Task 4: Implement a Sudoku Solver 🧩](#task-4-implement-a-sudoku-solver)
+5. [Task 5: Web Scraping 🌐](#task-5-web-scraping)
+6. [Technologies Used 🛠️](#technologies-used)
+7. [Learning Outcomes 🎓](#learning-outcomes)
 
-## Task 1: Build a Temperature Conversion Program
+## Task 1: Build a Temperature Conversion Program 🌡️
 
 **Description**: This program allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin using a graphical user interface (GUI).
 
@@ -21,11 +21,15 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Conversion between Celsius, Fahrenheit, and Kelvin.
 - Error handling for invalid inputs.
 
-![Temperature Conversion Program](path/to/screenshot1.png) <!-- Replace with actual screenshot path -->
+![Temperature Conversion Program](![p4](https://github.com/user-attachments/assets/12f07b6c-da37-4feb-9677-49be0962df8b)
+![p3](https://github.com/user-attachments/assets/f4b10ed2-ccc5-4c3b-8bf3-72033d9bde63)
+![p2](https://github.com/user-attachments/assets/e5dc02dd-cd96-4f88-bc15-0243f93b8adf)
+![p1](https://github.com/user-attachments/assets/b26ff9eb-fdbe-4220-a6c1-4a55b198341f)
+) 
 
 ---
 
-## Task 2: Create a Guessing Game
+## Task 2: Create a Guessing Game 🎮
 
 **Description**: A simple console-based guessing game where the user has to guess a randomly generated number within a certain range.
 
@@ -38,7 +42,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 
 ---
 
-## Task 3: Implement a Simple Contact Management System
+## Task 3: Implement a Simple Contact Management System 📇
 
 **Description**: A console application that allows users to add, view, and delete contacts.
 
@@ -51,7 +55,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 
 ---
 
-## Task 4: Implement a Sudoku Solver
+## Task 4: Implement a Sudoku Solver 🧩
 
 **Description**: A program that solves a given Sudoku puzzle using backtracking algorithms.
 
@@ -64,7 +68,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 
 ---
 
-## Task 5: Web Scraping
+## Task 5: Web Scraping 🌐
 
 **Description**: A program that scrapes data from a specified website and displays the extracted information.
 
@@ -77,14 +81,14 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 
 ---
 
-## Technologies Used
+## Technologies Used 🛠️
 
 - Java
 - Java Frameworks (e.g., Spring, JavaFX)
 
 ---
 
-## Learning Outcomes
+## Learning Outcomes 🎓
 
 During my internship at Prodigy InfoTech, I gained valuable experience in:
 - **Software Development**: Improved my coding skills and learned best practices in software development.
@@ -96,4 +100,4 @@ I am grateful for the opportunity to learn and grow at Prodigy InfoTech, and I l
 
 ---
 
-Thank you for visiting my repository! Feel free to explore the code and reach out if you have any questions or feedback.
+Thank you for visiting my repository! Feel free to explore the code and reach out if you have any questions or feedback. 😊
