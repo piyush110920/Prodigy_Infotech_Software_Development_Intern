@@ -21,10 +21,11 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Conversion between Celsius, Fahrenheit, and Kelvin.
 - Error handling for invalid inputs.
 
-![Temperature Conversion Program](![p4](https://github.com/user-attachments/assets/12f07b6c-da37-4feb-9677-49be0962df8b)
-![p3](https://github.com/user-attachments/assets/f4b10ed2-ccc5-4c3b-8bf3-72033d9bde63)
-![p2](https://github.com/user-attachments/assets/e5dc02dd-cd96-4f88-bc15-0243f93b8adf)
-![p1](https://github.com/user-attachments/assets/b26ff9eb-fdbe-4220-a6c1-4a55b198341f)
+![Temperature Conversion Program](![p4](https://github.com/user-attachments/assets/a198b52b-abbb-4efb-b79e-c02a1a730184)
+![p3](https://github.com/user-attachments/assets/6e5acf67-3a1d-4481-ac76-d1aa5136acae)
+![p2](https://github.com/user-attachments/assets/341de40a-f26a-487b-a90f-566502803036)
+![p1](https://github.com/user-attachments/assets/b48e6be4-a7cd-4426-b11e-16de7b66e551)
+
 ) 
 
 ---
