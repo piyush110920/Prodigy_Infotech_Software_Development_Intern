@@ -37,7 +37,11 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - User input for guesses.
 - Feedback on whether the guess is too high, too low, or correct.
 
-![Guessing Game](path/to/screenshot2.png) <!-- Replace with actual screenshot path -->
+![Guessing Game](![p1](https://github.com/user-attachments/assets/1a3e6c81-4836-4ed5-9d5a-cee13d46a000)
+![p2](https://github.com/user-attachments/assets/749a6980-1caf-4e4b-a8d3-bcc464f4ea54)
+![result ss](https://github.com/user-attachments/assets/2141f0b3-6c99-4a01-9f59-710b7341223c)
+
+)
 
 ---
 
@@ -50,8 +54,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - View all contacts in a list.
 - Delete contacts by name.
 
-![Contact Management System](path/to/screenshot3.png) <!-- Replace with actual screenshot path -->
-
+![Contact Management System](path/to/screenshot3.png) 
 ---
 
 ## Task 4: Implement a Sudoku Solver 🧩
@@ -63,7 +66,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Solving algorithm that fills in the grid.
 - Display of the solved Sudoku puzzle.
 
-![Sudoku Solver](path/to/screenshot4.png) <!-- Replace with actual screenshot path -->
+![Sudoku Solver](path/to/screenshot4.png) 
 
 ---
 
@@ -76,7 +79,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Parsing the HTML to extract specific data.
 - Displaying the scraped data in a readable format.
 
-![Web Scraping](path/to/screenshot5.png) <!-- Replace with actual screenshot path -->
+![Web Scraping](path/to/screenshot5.png) 
 
 ---
 
