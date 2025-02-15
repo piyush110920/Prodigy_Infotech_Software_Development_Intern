@@ -54,7 +54,7 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - View all contacts in a list.
 - Delete contacts by name.
 
-![Contact Management System](![IO01](https://github.com/user-attachments/assets/55763332-dcb4-4924-b26a-58810784ff4c)
+(![IO01](https://github.com/user-attachments/assets/55763332-dcb4-4924-b26a-58810784ff4c)
 ![IO02](https://github.com/user-attachments/assets/c2beebfb-99cc-4c39-acb4-cece2494e27e)
 ![IO03](https://github.com/user-attachments/assets/670b0ea1-bfda-4558-b66c-f93279be8688)
 ![IO04](https://github.com/user-attachments/assets/aca531e6-e05d-4d9f-92ea-0107f7f62040)
