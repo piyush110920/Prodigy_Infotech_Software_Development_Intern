@@ -54,7 +54,13 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - View all contacts in a list.
 - Delete contacts by name.
 
-![Contact Management System](path/to/screenshot3.png) 
+![Contact Management System](![IO01](https://github.com/user-attachments/assets/55763332-dcb4-4924-b26a-58810784ff4c)
+![IO02](https://github.com/user-attachments/assets/c2beebfb-99cc-4c39-acb4-cece2494e27e)
+![IO03](https://github.com/user-attachments/assets/670b0ea1-bfda-4558-b66c-f93279be8688)
+![IO04](https://github.com/user-attachments/assets/aca531e6-e05d-4d9f-92ea-0107f7f62040)
+![OP01](https://github.com/user-attachments/assets/3fe27fdc-2fa5-48b6-b0f1-bc0c21db594a)
+![OP02](https://github.com/user-attachments/assets/096395a2-5429-4529-a29e-0980cba86a68)
+) 
 ---
 
 ## Task 4: Implement a Sudoku Solver 🧩
@@ -66,7 +72,12 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Solving algorithm that fills in the grid.
 - Display of the solved Sudoku puzzle.
 
-![Sudoku Solver](path/to/screenshot4.png) 
+![Sudoku Solver](![IP01](https://github.com/user-attachments/assets/76c49b85-9f4e-4ac1-8f03-7eee33892911)
+![IP02](https://github.com/user-attachments/assets/bd2c5b52-537d-4225-b79d-f13f6bc93281)
+![IP03](https://github.com/user-attachments/assets/1fc97d0d-ebf1-4df8-9330-d10eece1f2bc)
+![OP01](https://github.com/user-attachments/assets/7b427d5c-75c8-442d-9266-078bfe7de2fd)
+![OP02](https://github.com/user-attachments/assets/cabd7ae9-9f34-4e43-bb81-b009e3009450)
+) 
 
 ---
 
