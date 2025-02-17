@@ -90,7 +90,9 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Parsing the HTML to extract specific data.
 - Displaying the scraped data in a readable format.
 
-![Web Scraping](path/to/screenshot5.png) 
+![Web Scraping](![p01](https://github.com/user-attachments/assets/1b5ed231-3efa-4aa6-82b7-69fc042b9be9)
+![p02](https://github.com/user-attachments/assets/2581e2d5-ab53-4524-b5a9-845e5fe61095)
+) 
 
 ---
 
